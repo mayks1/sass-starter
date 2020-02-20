@@ -1,0 +1,15 @@
+{
+  "name": "sass-star",
+  "version": "2.0.0",
+  "description": "Sass Starter",
+  "main": "index.html",
+  "scripts": {
+    "start": "node-sass sass/main.sass css/main.css -w"
+  },
+  "author": "Michael Michaelov",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
